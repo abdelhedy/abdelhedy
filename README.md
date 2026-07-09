@@ -1,34 +1,11 @@
-<div align="center">
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,11&height=180&section=header&text=Yasmine%20Abdelhedi&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20ML%20Practitioner&descAlignY=51&descAlign=50)](https://github.com/abdelhedy)
 
-<a href="https://github.com/abdelhedy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,11&height=180&section=header&text=Yasmine%20Abdelhedi&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20ML%20Practitioner&descAlignY=51&descAlign=50" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+ML+Solutions;ML+%26+AI+Enthusiast;Eager+to+Learn%2C+Driven+to+Build;Turning+Research+into+Real+Impact)](https://git.io/typing-svg)
 
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+ML+Solutions;ML+%26+AI+Enthusiast;Eager+to+Learn%2C+Driven+to+Build;Turning+Research+into+Real+Impact" />
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/abdelhedi-yasmine-93678125b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/abdelhedy">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:abdelhediyasmine3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=abdelhedy&style=for-the-badge&color=A855F7" />
-
-</div>
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhedi-yasmine-93678125b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelhedy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhediyasmine3@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=abdelhedy&style=for-the-badge&color=A855F7)
 
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
 
@@ -68,13 +45,10 @@ The pivot was deliberate — drawn by the depth of the field and the tangible im
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -99,13 +73,6 @@ The pivot was deliberate — drawn by the depth of the field and the tangible im
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
-
-## 📊 GitHub Activity
-
-[![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelhedy&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/abdelhedy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhedy&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/abdelhedy)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelhedy&custom_title=Contribution+Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area_color=A855F7&area=true&hide_border=true)](https://github.com/abdelhedy)
 
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
 
