@@ -38,7 +38,7 @@ The pivot was deliberate — drawn by the depth of the field and the tangible im
 | 🧬 [**E2D Continual Learning**](https://github.com/abdelhedy/E2dForContinualLearning) | Custom Avalanche + PyTorch plugin fighting catastrophic forgetting in class-incremental learning. Adapted backbone for Tiny-ImageNet — pushed accuracy **16% → 60%+** | `PyTorch` `Avalanche` `HuggingFace` |
 | 👁️ [**Facial Recognition Attendance**](https://github.com/abdelhedy/presence-management-system) | Full-stack MVC app with DeepFace FaceNet for real-time webcam attendance (70% confidence threshold). MySQL triggers automate the full session lifecycle — zero manual intervention | `Python` `DeepFace` `PHP` `MySQL` |
 | 🚗 [**Car Price Prediction**](https://github.com/edamkhabou/Prediction_prix_voiture-) | Scraped tayara.tn listings, benchmarked 5 ML models. Winner: **XGBoost (R²≈0.65)** after GridSearchCV tuning | `XGBoost` `scikit-learn` `Pandas` |
-| 🏢 [**Purchase Order Analytics**](https://github.com/abdelhedy) | Snowflake schema data warehouse + ETL pipeline + supplier KPI dashboard tracking purchase trends and delivery metrics | `SQL Server` `Angular` `.NET` |
+
 
 [![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
 
