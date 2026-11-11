@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Yasmine Abdelhedi · Data Engineering · Machine Learning · LLMs" width="100%" />
+<img src="assets/header.svg" alt="Yasmine Abdelhedi · Data Engineering & Applied AI" width="100%" />
 
 <a href="https://github.com/abdelhedy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=3E7CB1&center=true&vCenter=true&width=760&height=44&lines=I+build+LLM+assistants+that+query+real+company+data;I+fine-tune+transformers+on+Tunisian+code-switched+text;I+ship+ML+models+behind+APIs%2C+not+just+notebooks;I+back+every+result+with+an+honest+evaluation" alt="I build LLM assistants that query real company data" /></a>
 
@@ -14,14 +14,14 @@
 
 I build AI that holds up on real data, and I prove it with numbers.
 
-Across four internships, I've shipped an **on-premise LLM assistant** that answers business questions from a company's own data warehouse, **fine-tuned transformers** on Tunisian code-switched social media, and built the **warehouses, ETL pipelines and APIs** behind business dashboards. I care about the unglamorous part as much as the model: clean data, leakage-free evaluation, and results someone can check.
+Across five internships, I've shipped an **on-premise LLM assistant** that answers business questions from a company's own data warehouse, **fine-tuned transformers** on Tunisian code-switched social media, and built the **warehouses, ETL pipelines and APIs** behind business dashboards. I care about the unglamorous part as much as the model: clean data, leakage-free evaluation, and results someone can check.
 
 🎓 Final year of **Data Engineering & Decision Systems** at ENET'Com, ranked 1st in my class<br>
 🎯 Looking for a **4 to 6 month PFE internship from February 2027**, where I can own an AI or data problem end to end
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg" />
-  <img src="assets/impact-light.svg" alt="4 internships · 93% answer faithfulness · 0.75 macro-F1 · 10.4% median price error" width="100%" />
+  <img src="assets/impact-light.svg" alt="5 internships · 93% answer faithfulness · 0.75 macro-F1 · 10.4% median price error" width="100%" />
 </picture>
 
 ## 💼 Experience
