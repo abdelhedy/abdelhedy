@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 336" width="480" height="336" role="img" aria-label="CarFair-TN">
+<defs>
+  <linearGradient id="bar-carfair" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1b3168"/><stop offset=".6" stop-color="#3e7cb1"/><stop offset="1" stop-color="#8fbbde"/></linearGradient>
+  <linearGradient id="num-carfair" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1b3168"/><stop offset="1" stop-color="#3e7cb1"/></linearGradient>
+  <clipPath id="c-carfair"><rect x="1" y="1" width="478" height="334" rx="20"/></clipPath>
+</defs>
+<style>
+  .flow { animation: nudge 1.6s ease-in-out infinite; }
+  .shine { animation: shine 5s ease-in-out infinite; }
+  @keyframes nudge { 0%,100% { transform: translateX(0) } 50% { transform: translateX(3px) } }
+  @keyframes shine { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+</style>
+<rect x="1" y="1" width="478" height="334" rx="20" fill="#ffffff" stroke="#d8e2ef"/>
+<rect x="1" y="1" width="478" height="6" fill="url(#bar-carfair)" clip-path="url(#c-carfair)" class="shine"/>
+<rect x="28" y="30" width="152" height="26" rx="13" fill="#3e7cb1" fill-opacity=".14"/>
+<text x="104" y="48" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing=".8" fill="#3e7cb1">MACHINE LEARNING</text>
+<text x="452" y="48" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#6b7a90">2025 – 2026  ↗</text>
+<text x="28" y="98" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f1f45">CarFair-TN</text>
+<text x="28" y="134" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#3d4b63">Fair used-car prices from 7,178 messy</text><text x="28" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#3d4b63">tayara.tn listings: anomalies proven before</text><text x="28" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#3d4b63">fixing, 6 approaches compared without leakage.</text>
+<rect x="28" y="200" width="424" height="72" rx="12" fill="#f3f7fc"/>
+<rect x="28" y="200" width="4" height="72" rx="2" fill="#3e7cb1"/>
+<text x="46" y="236" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#num-carfair)">10.4%</text>
+<text x="46" y="260" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#6b7a90">median error on 852 unseen listings · baseline 17.2%</text>
+<rect x="28" y="290" width="75" height="28" rx="14" fill="#eef4fb"/><text x="65.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1b3168">Python</text><rect x="111" y="290" width="123" height="28" rx="14" fill="#eef4fb"/><text x="172.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1b3168">scikit-learn</text><rect x="242" y="290" width="83" height="28" rx="14" fill="#eef4fb"/><text x="283.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1b3168">XGBoost</text><rect x="333" y="290" width="99" height="28" rx="14" fill="#eef4fb"/><text x="382.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1b3168">Streamlit</text>
+</svg>

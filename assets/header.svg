@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" width="1280" height="330" role="img" aria-label="Yasmine Abdelhedi, Data Engineering, Machine Learning, LLMs">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1736"/><stop offset="0.55" stop-color="#1b3168"/><stop offset="1" stop-color="#2f6aa3"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5">
+    <stop offset="0" stop-color="#8fbbde" stop-opacity="0.35"/><stop offset="1" stop-color="#8fbbde" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cfe2f3"/>
+  </linearGradient>
+  <clipPath id="clip"><rect width="1280" height="330" rx="22"/></clipPath>
+</defs>
+<style>
+  .edge { stroke: #8fbbde; stroke-opacity: .28; stroke-width: 1.4; }
+  .node { fill: #8fbbde; animation: blink 3.2s ease-in-out infinite; }
+  .pulse { fill: #ffffff; }
+  .w1 { fill: #3e7cb1; opacity: .16; animation: slide 16s linear infinite; }
+  .w2 { fill: #8fbbde; opacity: .12; animation: slide 11s linear infinite reverse; }
+  .dot { fill: #4ade80; animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 0%,100% { opacity: .45 } 50% { opacity: 1 } }
+  @keyframes slide { from { transform: translateX(0) } to { transform: translateX(-1280px) } }
+</style>
+<g clip-path="url(#clip)">
+  <rect width="1280" height="330" fill="url(#bg)"/>
+  <rect width="1280" height="330" fill="url(#glow)"/>
+  <path class="w1" d="M0 272 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 q 80 -18 160 0 t 160 0 V 330 H 0 Z"/>
+  <path class="w2" d="M0 292 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 q 65 -14 130 0 t 130 0 V 330 H 0 Z"/>
+  <g><line x1="905" y1="92" x2="1010" y2="60" class="edge"/><line x1="1010" y1="60" x2="1120" y2="104" class="edge"/><line x1="1120" y1="104" x2="1215" y2="70" class="edge"/><line x1="905" y1="92" x2="960" y2="190" class="edge"/><line x1="1010" y1="60" x2="1075" y2="175" class="edge"/><line x1="1120" y1="104" x2="1075" y2="175" class="edge"/><line x1="1120" y1="104" x2="1185" y2="200" class="edge"/><line x1="1215" y1="70" x2="1185" y2="200" class="edge"/><line x1="960" y1="190" x2="1075" y2="175" class="edge"/><line x1="1075" y1="175" x2="1185" y2="200" class="edge"/><line x1="960" y1="190" x2="905" y2="280" class="edge"/><line x1="960" y1="190" x2="1030" y2="262" class="edge"/><line x1="1075" y1="175" x2="1030" y2="262" class="edge"/><line x1="1075" y1="175" x2="1150" y2="286" class="edge"/><line x1="1185" y1="200" x2="1150" y2="286" class="edge"/><line x1="1185" y1="200" x2="1245" y2="250" class="edge"/><line x1="1030" y1="262" x2="1150" y2="286" class="edge"/><line x1="1150" y1="286" x2="1245" y2="250" class="edge"/><line x1="905" y1="280" x2="1030" y2="262" class="edge"/><circle cx="905" cy="92" r="7" class="node" style="animation-delay:0.00s"/><circle cx="1010" cy="60" r="5" class="node" style="animation-delay:0.37s"/><circle cx="1120" cy="104" r="5" class="node" style="animation-delay:0.74s"/><circle cx="1215" cy="70" r="7" class="node" style="animation-delay:1.11s"/><circle cx="960" cy="190" r="5" class="node" style="animation-delay:1.48s"/><circle cx="1075" cy="175" r="5" class="node" style="animation-delay:1.85s"/><circle cx="1185" cy="200" r="7" class="node" style="animation-delay:2.22s"/><circle cx="905" cy="280" r="5" class="node" style="animation-delay:2.59s"/><circle cx="1030" cy="262" r="5" class="node" style="animation-delay:2.96s"/><circle cx="1150" cy="286" r="7" class="node" style="animation-delay:3.33s"/><circle cx="1245" cy="250" r="5" class="node" style="animation-delay:3.70s"/><circle r="3.2" class="pulse"><animateMotion dur="2.6s" begin="0s" repeatCount="indefinite" path="M905,92 L1010,60"/></circle><circle r="3.2" class="pulse"><animateMotion dur="3.3s" begin="0.55s" repeatCount="indefinite" path="M960,190 L1075,175"/></circle><circle r="3.2" class="pulse"><animateMotion dur="4s" begin="1.1s" repeatCount="indefinite" path="M1075,175 L1150,286"/></circle><circle r="3.2" class="pulse"><animateMotion dur="2.6s" begin="1.6500000000000001s" repeatCount="indefinite" path="M1120,104 L1185,200"/></circle><circle r="3.2" class="pulse"><animateMotion dur="3.3s" begin="2.2s" repeatCount="indefinite" path="M905,280 L1030,262"/></circle><circle r="3.2" class="pulse"><animateMotion dur="4s" begin="2.75s" repeatCount="indefinite" path="M1010,60 L1075,175"/></circle></g>
+  <text x="72" y="92" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fbbde">&gt; hello, I'm</text>
+  <text x="70" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="url(#name)">Yasmine Abdelhedi</text>
+  <text x="72" y="204" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#cfe2f3">Data Engineering · Machine Learning · LLMs</text>
+  <g>
+    <rect x="72" y="232" width="372" height="40" rx="20" fill="#ffffff" fill-opacity=".1" stroke="#8fbbde" stroke-opacity=".5"/>
+    <circle cx="96" cy="252" r="6" class="dot"/>
+    <text x="112" y="258" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff">Open to a PFE internship · Feb 2027</text>
+  </g>
+</g>
+</svg>

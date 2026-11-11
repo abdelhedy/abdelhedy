@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 90" width="1280" height="90">
+<style>
+  .a { fill: #3e7cb1; opacity: .45; animation: s 14s linear infinite; }
+  .b { fill: #1b3168; opacity: .85; animation: s 9s linear infinite reverse; }
+  @keyframes s { from { transform: translateX(0) } to { transform: translateX(-1280px) } }
+</style>
+<path class="a" d="M0 40 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 q 80 -16 160 0 t 160 0 V 90 H 0 Z"/>
+<path class="b" d="M0 58 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 q 64 -12 128 0 t 128 0 V 90 H 0 Z"/>
+</svg>

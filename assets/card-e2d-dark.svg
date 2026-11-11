@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 336" width="480" height="336" role="img" aria-label="E2D Replay">
+<defs>
+  <linearGradient id="bar-e2d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1b3168"/><stop offset=".6" stop-color="#7c5cc4"/><stop offset="1" stop-color="#8fbbde"/></linearGradient>
+  <linearGradient id="num-e2d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fbbde"/><stop offset="1" stop-color="#7c5cc4"/></linearGradient>
+  <clipPath id="c-e2d"><rect x="1" y="1" width="478" height="334" rx="20"/></clipPath>
+</defs>
+<style>
+  .flow { animation: nudge 1.6s ease-in-out infinite; }
+  .shine { animation: shine 5s ease-in-out infinite; }
+  @keyframes nudge { 0%,100% { transform: translateX(0) } 50% { transform: translateX(3px) } }
+  @keyframes shine { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+</style>
+<rect x="1" y="1" width="478" height="334" rx="20" fill="#161b22" stroke="#30363d"/>
+<rect x="1" y="1" width="478" height="6" fill="url(#bar-e2d)" clip-path="url(#c-e2d)" class="shine"/>
+<rect x="28" y="30" width="128" height="26" rx="13" fill="#7c5cc4" fill-opacity=".14"/>
+<text x="92" y="48" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" letter-spacing=".8" fill="#7c5cc4">DEEP LEARNING</text>
+<text x="452" y="48" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#8b98a9">2026  ↗</text>
+<text x="28" y="98" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" fill="#e6edf3">E2D Replay</text>
+<text x="28" y="134" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#b8c4d4">Continual learning that replays distilled</text><text x="28" y="158" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#b8c4d4">synthetic images instead of real past data,</text><text x="28" y="182" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#b8c4d4">built as an Avalanche plugin, on Tiny-ImageNet.</text>
+<rect x="28" y="200" width="424" height="72" rx="12" fill="#1b2430"/>
+<rect x="28" y="200" width="4" height="72" rx="2" fill="#7c5cc4"/>
+<text x="46" y="236" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#num-e2d)">58% → 16%</text>
+<text x="46" y="260" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#8b98a9">forgetting, from 1 to 50 synthetic images per class</text>
+<rect x="28" y="290" width="83" height="28" rx="14" fill="#1f2a3b"/><text x="69.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#cfe2f3">PyTorch</text><rect x="119" y="290" width="99" height="28" rx="14" fill="#1f2a3b"/><text x="168.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#cfe2f3">Avalanche</text><rect x="226" y="290" width="131" height="28" rx="14" fill="#1f2a3b"/><text x="291.5" y="309" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#cfe2f3">Tiny-ImageNet</text>
+</svg>
