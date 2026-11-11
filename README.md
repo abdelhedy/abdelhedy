@@ -1,100 +1,69 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,11&height=180&section=header&text=Yasmine%20Abdelhedi&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Data%20Science%20%7C%20AI%20Engineering%20%7C%20ML%20Practitioner&descAlignY=51&descAlign=50)](https://github.com/abdelhedy)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Building+Scalable+ML+Solutions;ML+%26+AI+Enthusiast;Eager+to+Learn%2C+Driven+to+Build;Turning+Research+into+Real+Impact)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b3168,100:8fbbde&height=130&section=header&text=Yasmine%20Abdelhedi&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20LLMs&descSize=16&descAlignY=66" alt="Yasmine Abdelhedi" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhedi-yasmine-93678125b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelhedy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhediyasmine3@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=abdelhedy&style=for-the-badge&color=A855F7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b3168?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhedi-yasmine-93678125b/)
+[![Email](https://img.shields.io/badge/Email-1b3168?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelhediyasmine3@gmail.com)
+![Open to](https://img.shields.io/badge/Open_to-PFE_internship_%C2%B7_Feb_2027-8fbbde?style=flat-square)
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
+<!-- Add once the site is live: [![Portfolio](https://img.shields.io/badge/Portfolio-3e7cb1?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.vercel.app) -->
 
-## 🙋‍♀️ About Me
+</div>
 
-**Data Science & AI Engineering student** at ENET'Com, Sfax — specializing in ML systems that go beyond notebooks and into production.
+Final-year **Data Engineering & Decision Systems** student at ENET'Com. I build LLM tools, machine-learning models and the data pipelines behind them, and I back every result with an honest evaluation.
 
-**Core Focus Areas:**
-- 🧠 Continual Learning & Catastrophic Forgetting
-- 👁️ Computer Vision & Facial Recognition
-- 📊 Predictive Modeling & ML Deployment
-- 🗄️ Data Warehousing & ETL Pipelines
-- 🌐 Full-Stack AI Applications
+Looking for a **4 to 6 month end-of-studies internship (PFE) from February 2027**, in AI, machine learning or data engineering.
 
-**Background:** Business Information Systems → Data Science Master's → AI Engineering.  
-The pivot was deliberate — drawn by the depth of the field and the tangible impact of well-built data systems.
+## Experience
 
-- 🎓 Engineering Cycle @ **ENET'Com** Sfax
-- 🤝 Active member — **Enactus ENET'Com** (social entrepreneurship & impact)
-- 📣 Former **Communication Lead** — Enactus FSEG Sfax (2021–2022)
-- 💬 Ask me about: `Python` `PyTorch` `scikit-learn` `DeepFace` `Avalanche CL` `Continual Learning`
-- ⚡ Fun fact: I pushed a continual learning model from **16% → 60%+ accuracy** by replacing a backbone and fixing a class-index mismatch — before finishing my second year of engineering
+**Hydatis** · AI/NLP Intern · *Aug – Sep 2026*<br>
+Sentiment analysis of Tunisian code-switched posts: benchmarked 6 transformers, fine-tuned mDeBERTa-v3 to **0.75 macro-F1** (5-fold CV), and built the analytics dashboard with an LLM summary written from computed KPIs.
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
+**Anavid** · AI & ML Engineer Intern · *Jun – Jul 2026*<br>
+On-premise LLM assistant with tool calling and RAG over the data warehouse, rated **93% faithful** by an independent LLM judge; XGBoost visitor forecasting served by FastAPI, with daily reports automated in n8n.
 
-## 🚀 Featured Projects
+**Acteol** · Data Engineer Intern · *Jun 2025*<br>
+Snowflake-schema warehouse in SQL Server fed by SSIS, exposed through a .NET API (10+ endpoints) to an Angular purchasing dashboard.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧬 [**E2D Continual Learning**](https://github.com/abdelhedy/E2dForContinualLearning) | Custom Avalanche + PyTorch plugin fighting catastrophic forgetting in class-incremental learning. Adapted backbone for Tiny-ImageNet — pushed accuracy **16% → 60%+** | `PyTorch` `Avalanche` `HuggingFace` |
-| 👁️ [**Facial Recognition Attendance**](https://github.com/abdelhedy/presence-management-system) | Full-stack MVC app with DeepFace FaceNet for real-time webcam attendance (70% confidence threshold). MySQL triggers automate the full session lifecycle — zero manual intervention | `Python` `DeepFace` `PHP` `MySQL` |
-| 🚗 [**Car Price Prediction**](https://github.com/edamkhabou/Prediction_prix_voiture-) | Scraped tayara.tn listings, benchmarked 5 ML models. Winner: **XGBoost (R²≈0.65)** after GridSearchCV tuning | `XGBoost` `scikit-learn` `Pandas` |
+**Prestacode** · Full-Stack Developer Intern · *2023, 2024*<br>
+Two internal web apps on Spring Boot, PostgreSQL and Angular: an accounting-firm platform with automated billing and role-based access (2024), and a training-session manager (2023).
 
+<sub>Internship code belongs to the companies and is not public.</sub>
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
+## Selected projects
 
-## 🛠️ Tech Stack
+**[CarFair-TN](https://github.com/abdelhedy/CarFair-TN)** · [live demo](https://carfair-tn.streamlit.app/)<br>
+Fair used-car prices from 7,178 messy tayara.tn listings. Each anomaly was proven before it was fixed, 6 approaches were compared in leakage-free pipelines, and XGBoost reached a **10.4% median error on 852 unseen listings**, against 17.2% for a median-of-similar-cars baseline.<br>
+<sub>Python · pandas · scikit-learn · XGBoost · Streamlit</sub>
 
-### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**[E2D Replay: data distillation for continual learning](https://github.com/abdelhedy/e2d-replay-tiny-imagenet)**<br>
+Replays synthetic images from dataset distillation (E2D) instead of real past data, built as an Avalanche plugin and tested on Split Tiny-ImageNet. Forgetting falls from **58% to 16%** as the buffer grows from 1 to 50 images per class, reaching **69.4% accuracy without storing a single real image**.<br>
+<sub>Python · PyTorch · Avalanche · Kaggle</sub>
 
-### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![DeepFace](https://img.shields.io/badge/DeepFace-4B0082?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Avalanche CL](https://img.shields.io/badge/Avalanche_CL-A855F7?style=for-the-badge&logoColor=white)
+**[Face-Recognition Attendance System](https://github.com/abdelhedy/presence-management-system)**<br>
+Webcam check-in verified by DeepFace (FaceNet), automatic absences and dashboards for students, teachers and admins.<br>
+<sub>Python · DeepFace · PHP · MySQL</sub>
 
-### 🗄️ Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**[Postify](https://github.com/abdelhedy/mini-social-media-app)**<br>
+Social network built on MongoDB: a Spring Boot REST API for posts with images and videos, likes and a shared feed, used by an Angular client.<br>
+<sub>Java · Spring Boot · MongoDB · Angular</sub>
 
-### 🧰 Tools & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## Toolbox
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,docker,postgres,mongodb,mysql,java,spring,net,angular,react,git&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,docker,postgres,mongodb,mysql,java,spring,net,angular,react,git&perline=8&theme=light" alt="Python, PyTorch, scikit-learn, OpenCV, FastAPI, Docker, PostgreSQL, MongoDB, MySQL, Java, Spring, .NET, Angular, React, Git" />
+</picture>
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
+**LLMs:** Transformers fine-tuning · tool calling · RAG · LLM-as-judge evaluation · Ollama<br>
+**ML:** XGBoost · scikit-learn · PyTorch · cross-validation · held-out testing<br>
+**Data:** SQL · SQL Server · SSIS · Power BI · Hadoop · Hive · n8n
 
-## 🏆 Highlights
+## Highlights
 
-- 🎯 Pushed a continual learning model from **16% → 60%+ accuracy** on Tiny-ImageNet
-- 🧠 Built a **real-time facial recognition system** from scratch as a solo project
-- 🎓 Certifications: Hadoop, Big Data Analytics with Hive, AI & ML Fundamentals (CDOSS 2024–2025)
+- Ranked **top of my class** at ENET'Com (2025–2026).
+- **Pitching team, Enactus ENET'Com** (2025–2026): pitched two water-saving projects to an international jury.
+- Former **Communication Lead, Enactus FSEG Sfax** (2021–2022).
+- CDOSS certifications: [Big Data in Hadoop](https://cdoss.org/abdelhedi-yasmine/) · [Hadoop Administration](https://cdoss.org/yasmine-abdelhedi/) · [Big Data Analytics with Hive](https://cdoss.org/yasmine-abdelhedi-3/) · [AI & ML Fundamentals](https://cdoss.org/yasmine-abdelhedi-2/)
 
-[![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,11&height=3&section=header)](https://github.com/abdelhedy)
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhedi-yasmine-93678125b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhediyasmine3@gmail.com)
-
-![Open to Internships](https://img.shields.io/badge/🎯_Open_to-Data_Science_Internships-success?style=for-the-badge)
-![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-blueviolet?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/📚_Always-Learning-orange?style=for-the-badge)
-
-**💬 Open to discussing:** `ML Architecture` • `Continual Learning` • `Computer Vision` • `Data Pipelines` • `AI Deployment`
-
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,11&height=100&section=footer)](https://github.com/abdelhedy)
-
-*"Started in development, stayed for the data."*
+<sub>Business Information Systems → Data Science (M1) → Data Engineering. *Started in development, stayed for the data.*</sub>
