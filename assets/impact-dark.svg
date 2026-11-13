@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 196" width="960" height="196" role="img" aria-label="4 internships; 93% answer faithfulness; 0.75 macro-F1; 10.4% median price error">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 196" width="960" height="196" role="img" aria-label="5 internships; 93% answer faithfulness; 0.75 macro-F1; 10.4% median price error">
 <defs>
   <linearGradient id="num" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8fbbde"/><stop offset="1" stop-color="#cfe2f3"/></linearGradient>
   <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1b3168"/><stop offset="1" stop-color="#8fbbde"/></linearGradient>
@@ -10,7 +10,7 @@
 <g>
   <rect x="1" y="1" width="226" height="194" rx="18" fill="#161b22" stroke="#30363d"/>
   <rect x="22" y="22" width="34" height="5" rx="2.5" fill="url(#acc)" class="bar" style="animation-delay:0s"/>
-  <text x="22" y="84" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#num)">4</text>
+  <text x="22" y="84" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#num)">5</text>
   <text x="22" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e6edf3">internships</text>
   <text x="22" y="146" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8b98a9">AI, ML, data</text>
   <text x="22" y="167" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#8b98a9">and full-stack</text>

@@ -2,11 +2,11 @@
 
 <img src="assets/header.svg" alt="Yasmine Abdelhedi · Data Engineering & Applied AI" width="100%" />
 
-<a href="https://github.com/abdelhedy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=3E7CB1&center=true&vCenter=true&width=760&height=44&lines=I+build+LLM+assistants+that+query+real+company+data;I+fine-tune+transformers+on+Tunisian+code-switched+text;I+ship+ML+models+behind+APIs%2C+not+just+notebooks;I+back+every+result+with+an+honest+evaluation" alt="I build LLM assistants that query real company data" /></a>
+<a href="https://github.com/abdelhedy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=3E7CB1&center=true&vCenter=true&width=760&height=44&lines=I+build+LLM+assistants+that+query+real+company+data;I+fine-tune+transformers+on+Tunisian+code-switched+text;I+ship+ML+models+behind+APIs%2C+not+just+notebooks;I+back+my+results+with+honest+evaluation" alt="I build LLM assistants that query real company data" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b3168?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-abdelhedi-93678125b/)
 [![Email](https://img.shields.io/badge/Email-3e7cb1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelhediyasmine3@gmail.com)
-<!-- Add once the site is live: [![Portfolio](https://img.shields.io/badge/Portfolio-8fbbde?style=for-the-badge&logo=vercel&logoColor=0f1f45)](https://YOUR-PORTFOLIO.vercel.app) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-8fbbde?style=for-the-badge&logo=vercel&logoColor=0f1f45)](https://yasmine-portfoliovercelapp.vercel.app/)
 
 </div>
 
